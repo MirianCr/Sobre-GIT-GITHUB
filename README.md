@@ -2,7 +2,7 @@
 Aqui vou colocar informações/comandos mais utilizados do Git
 
 *********Git & GitHub*********<br>
-Nessa parte ja fiz a alteração da master para main<br>
+Nessa parte eu ensino a fazer a alteração da master para main<br>
 
 --Verifique se o Git está instalado<br>
 
@@ -26,25 +26,32 @@ Digite git config --global user.email "seu-email"<br>
 --Isso irá listar todos os arquivos no seu diretório de trabalho.
 
 --Digite: <br>
---git remote add origin https//..seu endereço voce encontra na parte codes<br>
+--git remote add origin https//..seu endereço voce encontra na parte code https no github<br>
 --Aqui ele cria uma copia do github para associar os dois projetos<br>
 
+--Digite:
 --git pull origin main<br>
---para salvar/puxar o primeiro commit
+--para salvar/puxar o primeiro commit<br>
 
+--Digite:
 --git checkout -b main
 --para adaptar ao padrão main e nao mais o master<br>
 --checkout ele muda de brainch<br>
 -- -b para criar branch caso nao exista ainda<br>
 
+--Digite:
 --git status (aqui a branch ja mudou pra main)<br>
 
+--Digite:
 --git add . ou git add "nome do seu arquivo se vc quer separado"<br>
 
---git commit -m "seu commit"   -  seu comentario <br>
+--Digite:
+--git commit -m "seu commit"   -  adicione o seu comentario <br>
 
+--Digite:
 --git log --oneline
---aqui vc ve o historico de comits<br>
+--aqui pra vc ver o historico de commits<br>
 
+--Digite:
 --git push origin main
 --para enviar pro seu github
