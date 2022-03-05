@@ -55,3 +55,7 @@ Digite git config --global user.email "seu-email"<br>
 --Digite:
 --git push origin main
 --para enviar pro seu github
+
+
+Indico esse video para melhor entendimento:
+https://www.youtube.com/watch?v=MdthEusEoy8
