@@ -68,6 +68,8 @@ Digite git config --global user.email "seu-email"<br>
 https://www.youtube.com/watch?v=MdthEusEoy8
 =====================================================================================
 
+:magic_wand:
+
 :point_right:PRA PODER DEIXAR OUTRAS PESSOAS VIZUALIZAREM O CODIGO SEM O CODIGO SO A PAGINA FINAL:===
 SETTINGS;
 GITHUB PAGES - SELECT BRANCHES marca brainch main; -root - CLICA SAVE
